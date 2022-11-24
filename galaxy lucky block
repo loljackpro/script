@@ -1,0 +1,4 @@
+while wait() do
+game:GetService("ReplicatedStorage").SpawnGalaxyBlock:FireServer()
+wait(0.5)
+end
